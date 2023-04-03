@@ -3,6 +3,7 @@
 - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
 - 위 링크로 들어가면 다음과 같은 화면이 뜬다(프로그래머스 로그인을 한 상태에서)
 <br>
-<img src = "https://user-images.githubusercontent.com/81700507/229082071-21027bf8-43dc-4537-a845-5a156ed22b15.png"><br>
+<img src = "https://user-images.githubusercontent.com/81700507/229082071-21027bf8-43dc-4537-a845-5a156ed22b15.png">
+
 - 이렇게 6가지 테마별로 문제가 나뉘어져 있어서 테마별로 폴더에 저장하기로 했다
 
