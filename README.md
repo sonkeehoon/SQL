@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/81700507/230723439-ad3e0e22-00ac-4e6e-8f22-9959f8243714.png" style="width:8%">
+<img src="https://user-images.githubusercontent.com/81700507/230723439-ad3e0e22-00ac-4e6e-8f22-9959f8243714.png" style="width:10%">
 
 # SQL
 - SQL을 공부하면서 작성한 쿼리문들을 모아놓은 파일
