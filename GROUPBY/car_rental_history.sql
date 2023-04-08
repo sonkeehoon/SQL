@@ -1,4 +1,4 @@
--- 혼자 못풀었고 다른사람 코드를 보고 이해했다
+-- 스스로 해결 여부 : X
 
 SELECT MONTH(START_DATE) AS month, CAR_ID, COUNT(*) as RECORDS
 FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY 
