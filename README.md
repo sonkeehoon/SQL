@@ -1,11 +1,9 @@
 <img src="https://user-images.githubusercontent.com/81700507/230723439-ad3e0e22-00ac-4e6e-8f22-9959f8243714.png" style="width:10%">
 
-# SQL
-- SQL을 공부하면서 작성한 쿼리문들을 모아놓은 파일
+# SQL Query Repository
 - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
-- 위 링크로 들어가면 다음과 같은 화면이 뜬다(프로그래머스 로그인을 한 상태에서)
+- When you go to the link, the following screen will appear (while logged into Programmers)
 <br>
 <img src = "https://user-images.githubusercontent.com/81700507/229082071-21027bf8-43dc-4537-a845-5a156ed22b15.png">
 
-- 이렇게 6가지 테마별로 문제가 나뉘어져 있어서 테마별로 폴더에 저장했다
-
+- I have saved them in separate folders based on six different topics
